@@ -11,6 +11,8 @@ Hands free, possible to set this tool as a startup app if you wish & if you have
 
 (edit Form1.cs and ensure 'enp0s3' is the correct interface for you to use if you encounter any problems).
 
+You can also manually update the exe this tool launches if a new version above PPPwn v1.7 is released, please refer to the comments i made in Form1.cs.
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 All this tool basically does is some well needed automations for those of us without a Pi or Ethernet adapters :(...
 
