@@ -7,7 +7,7 @@ To launch the exploit after automatically disabling and then re-enabling the eth
 
 Benefits:
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Hands free, possible to set this tool as a startup app if you wish & if you have a permanent PPPoe setup!
+All of the perks of the C++ version, this is hands free, possible to set this tool as a startup app if you wish & if you have a permanent PPPoe setup!
 
 (edit Form1.cs and ensure 'enp0s3' is the correct interface for you to use if you encounter any problems).
 
