@@ -1,5 +1,5 @@
 > [!WARNING]
-> NEW VERSION COMING - PLEASE USE THAT INSTEAD WHEN IT IS RELEASED! :) THANK YOU!
+> NEW VERSION COMING - PLEASE USE THAT INSTEAD WHEN IT IS RELEASED! :) THANK YOU! ETA MAY 20/21
 
 Main purpose: 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
