@@ -1,5 +1,5 @@
-> [!NOTE]
-> NEW VERSION COMING - PLEASE USE THAT INSTEAD WHEN IT IS RELEASED! :)
+> [!WARNING]
+> NEW VERSION COMING - PLEASE USE THAT INSTEAD WHEN IT IS RELEASED! :) THANK YOU!
 
 Main purpose: 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
